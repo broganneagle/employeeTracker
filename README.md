@@ -9,8 +9,8 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 ```
 # Concept
-The user will be able to :
-Add, view, and update departments, roles, and employees
+The user will be able to
+add, view, and update departments, roles, and employees
 
 # How to use
 1. Run seed file in MySQL Workbench or an equivalent if you would like starting data
